@@ -1,0 +1,14 @@
+mkdir home_2
+cd home_2
+touch coffee_table
+mkdir kitchen
+mkdir bedroom
+mkdir bathroom
+cd bathroom
+touch soap
+cd ..
+cd bedroom
+touch bed
+cd ..
+cd kitchen
+touch kitchen_table
